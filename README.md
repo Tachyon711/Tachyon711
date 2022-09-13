@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @Tachyon711, you can call me Tac.
+- 👋 Hi, I’m @Tachyon711.
 - 👀 I’m interested in web development, C++, and open-source software.
 - 🌱 I’m currently learning web development and C++.
+- ⚙️ I'm currently working on my personal website.
 - 💞️ I’m looking to collaborate on ... nothing, by far. Maybe next time.
 
 <!---
