@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Tachyon711.
+- 👋 Hi, I’m Jilrosh I. Abarte, @Tachyon711 in Github.
 - 👀 I’m interested in web development, C++, and open-source software.
 - 🌱 I’m currently learning web development and C++.
 - ⚙️ I'm currently working on my personal website.
