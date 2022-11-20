@@ -1,5 +1,12 @@
-- 👋 Hi, I’m Kuro Neko!
-- 🌱 I’m currently learning web development and C++.
+# Kuro Neko
+
+## A student who loves coffee, and (ball)pens.
+
+<details>
+<summary>README.md</summary>
+<br>
+This is how you dropdown.
+</details>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Tachyon711&show_icons=true&theme=transparent)
 
